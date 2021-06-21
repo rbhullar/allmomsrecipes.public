@@ -2,45 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://allmomsrecipes.herokuapp.com/</loc>
     <lastmod>2021-06-20T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://example.org/tags/breakfast/</loc>
+    <loc>https://allmomsrecipes.herokuapp.com/tags/breakfast/</loc>
     <lastmod>2021-06-20T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://example.org/posts/oatmeal/</loc>
+    <loc>https://allmomsrecipes.herokuapp.com/posts/oatmeal/</loc>
     <lastmod>2021-06-20T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://allmomsrecipes.herokuapp.com/tags/</loc>
     <lastmod>2021-06-20T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://allmomsrecipes.herokuapp.com/posts/</loc>
     <lastmod>2021-06-19T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://example.org/posts/pancakes/</loc>
+    <loc>https://allmomsrecipes.herokuapp.com/posts/pancakes/</loc>
     <lastmod>2017-04-10T11:00:59-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://example.org/about/</loc>
+    <loc>https://allmomsrecipes.herokuapp.com/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://allmomsrecipes.herokuapp.com/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://example.org/contact/</loc>
+    <loc>https://allmomsrecipes.herokuapp.com/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
