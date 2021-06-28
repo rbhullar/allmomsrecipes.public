@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>baking on All Mom&#39;s Recipes</title>
+    <link>https://allmomsrecipes.herokuapp.com/tags/baking/</link>
+    <description>Recent content in baking on All Mom&#39;s Recipes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 07 Jun 2021 11:00:59 -0400</lastBuildDate><atom:link href="https://allmomsrecipes.herokuapp.com/tags/baking/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Banana Bread</title>
+      <link>https://allmomsrecipes.herokuapp.com/posts/banana_bread/</link>
+      <pubDate>Mon, 07 Jun 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://allmomsrecipes.herokuapp.com/posts/banana_bread/</guid>
+      <description>Ingredients  2-3 medium sized very ripe bananas 1 and 1/2 cup all purpose flour 1 pinch salt 1/2 cup sugar 1 tsp baking soda 1/3 cup butter 1 large egg 1 tsp vanilla extract (optional) 1/4 cup of chocolate chips (optional) 1/4 cup of crushed nuts  Steps  Preheat oven to 350 F, and butter a 4x8 inch loaf pan. In a mixing bowl, mash the bananas until completely smooth.</description>
+    </item>
+    
+    <item>
+      <title>Chocolate Cake</title>
+      <link>https://allmomsrecipes.herokuapp.com/posts/chocolate_cake/</link>
+      <pubDate>Mon, 07 Jun 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://allmomsrecipes.herokuapp.com/posts/chocolate_cake/</guid>
+      <description>Ingredients  1 (18.25 ounce) package devil&amp;rsquo;s food cake mix 1 (5.9 ounce) package instant chocolate pudding mix 1 cup sour cream 1 cup vegetable oil 4 eggs ½ cup warm water 2 cups semisweet chocolate chips  Steps  Preheat oven to 350 F. In a large bowl, mix together the cake and pudding mixes, sour cream, oil, beaten eggs and water. Stir in the chocolate chips and pour batter into a well greased 12 cup bundt pan.</description>
+    </item>
+    
+  </channel>
+</rss>
